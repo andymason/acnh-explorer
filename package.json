@@ -1,0 +1,23 @@
+{
+  "name": "acnh-explorer",
+  "version": "0.0.1",
+  "description": "Exploring spreadsheet data",
+  "main": "index.js",
+  "scripts": {
+    "dev": "watchexec -w src/ ./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymason/acnh-explorer.git"
+  },
+  "author": "Andrew Mason",
+  "license": "SEE LICENCE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/andymason/acnh-explorer/issues"
+  },
+  "homepage": "https://github.com/andymason/acnh-explorer#readme",
+  "dependencies": {
+    "esbuild": "^0.6.3",
+    "preact": "^10.4.6"
+  }
+}
