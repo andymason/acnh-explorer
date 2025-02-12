@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/andymason/acnh-explorer#readme",
   "dependencies": {
-    "esbuild": "^0.6.3",
+    "esbuild": "^0.25.0",
     "preact": "^10.4.6"
   }
 }
